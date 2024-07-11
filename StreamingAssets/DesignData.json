@@ -1,0 +1,2911 @@
+{
+    "designs": [
+        {
+            "id": "d04e1110-13b1-443c-b95b-4abefc0530a8",
+            "walls": [
+                {
+                    "name": "Covered Wall",
+                    "position": "5.05, 1.4, -5.0515",
+                    "rotation": "0, 225, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "5.05, 1.4, 4.0485",
+                    "rotation": "0, 315, 0",
+                    "scale": "0.00100, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-4.05, 1.4, -5.0515",
+                    "rotation": "0, 315, 0",
+                    "scale": "0.00100, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-4.05, 1.4, 4.0485",
+                    "rotation": "0, 225, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Wall",
+                    "position": "5.1, 1.4, -0.5",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 9.03110"
+                },
+                {
+                    "name": "Wall",
+                    "position": "4.9, 1.4, -0.50000",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 8.83110"
+                },
+                {
+                    "name": "Wall",
+                    "position": "0.5, 1.4, -4.9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 8.83110"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-3.9, 1.4, -0.5",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 8.83110"
+                },
+                {
+                    "name": "Wall",
+                    "position": "0.50000, 1.4, 3.9",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 8.83110"
+                },
+                {
+                    "name": "Wall",
+                    "position": "0.5, 1.4, -5.1",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 9.03110"
+                },
+                {
+                    "name": "Wall",
+                    "position": "0.5, 1.4, 4.1",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 9.03110"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-4.1, 1.4, -0.5",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 9.03110"
+                }
+            ],
+            "roofCovers": [
+                {
+                    "name": "Roof cover",
+                    "position": "5, 2.8, -0.5",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.21, 0.001, 9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "0.5, 2.8, -5",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-4, 2.8, -0.5",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "0.5, 2.8, 4",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.21, 0.001, 9"
+                }
+            ],
+            "doors": [],
+            "windows": [],
+            "floors": [
+                {
+                    "name": "Floor(Clone)",
+                    "position": "0.5, 0, -0.5",
+                    "rotation": "0, 0, 0",
+                    "scale": "9.2, 1, 9.2"
+                }
+            ],
+            "ceilings": [
+                {
+                    "name": "Ceiling(Clone)",
+                    "position": "0.5, 2.85, -0.5",
+                    "rotation": "0, 0, 0",
+                    "scale": "9.5, 0.1, 9.5"
+                }
+            ]
+        },
+        {
+            "id": "2a101912-b75c-4632-bda5-222e884ba204",
+            "walls": [
+                {
+                    "name": "Covered Wall",
+                    "position": "5.05, 1.4, -5.0515",
+                    "rotation": "0, 225, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "5.05, 1.4, 4.0485",
+                    "rotation": "0, 315, 0",
+                    "scale": "0.00100, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-4.05, 1.4, -5.0515",
+                    "rotation": "0, 315, 0",
+                    "scale": "0.00100, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-4.05, 1.4, 4.0485",
+                    "rotation": "0, 225, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Wall",
+                    "position": "5.1, 1.4, -0.5",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 9.03110"
+                },
+                {
+                    "name": "Wall",
+                    "position": "4.9, 1.4, -0.50000",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 8.83110"
+                },
+                {
+                    "name": "Wall",
+                    "position": "0.5, 1.4, -4.9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 8.83110"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-3.9, 1.4, -0.5",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 8.83110"
+                },
+                {
+                    "name": "Wall",
+                    "position": "0.50000, 1.4, 3.9",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 8.83110"
+                },
+                {
+                    "name": "Wall",
+                    "position": "0.5, 1.4, -5.1",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 9.03110"
+                },
+                {
+                    "name": "Wall",
+                    "position": "0.5, 1.4, 4.1",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 9.03110"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-4.1, 1.4, -0.5",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 9.03110"
+                }
+            ],
+            "roofCovers": [
+                {
+                    "name": "Roof cover",
+                    "position": "5, 2.8, -0.5",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.21, 0.001, 9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "0.5, 2.8, -5",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-4, 2.8, -0.5",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "0.5, 2.8, 4",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.21, 0.001, 9"
+                }
+            ],
+            "doors": [],
+            "windows": [],
+            "floors": [
+                {
+                    "name": "Floor(Clone)",
+                    "position": "0.5, 0, -0.5",
+                    "rotation": "0, 0, 0",
+                    "scale": "9.2, 1, 9.2"
+                }
+            ],
+            "ceilings": [
+                {
+                    "name": "Ceiling(Clone)",
+                    "position": "0.5, 2.85, -0.5",
+                    "rotation": "0, 0, 0",
+                    "scale": "9.5, 0.1, 9.5"
+                }
+            ]
+        },
+        {
+            "id": "0269a316-3397-4ccd-8e04-d17ae6f91647",
+            "walls": [
+                {
+                    "name": "Covered Wall",
+                    "position": "5.05, 1.4, -5.0515",
+                    "rotation": "0, 225, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "5.05, 1.4, 4.0485",
+                    "rotation": "0, 315, 0",
+                    "scale": "0.00100, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-4.05, 1.4, -5.0515",
+                    "rotation": "0, 315, 0",
+                    "scale": "0.00100, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-4.05, 1.4, 4.0485",
+                    "rotation": "0, 225, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Wall",
+                    "position": "5.1, 1.4, -0.5",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 9.03110"
+                },
+                {
+                    "name": "Wall",
+                    "position": "4.9, 1.4, -0.50000",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 8.83110"
+                },
+                {
+                    "name": "Wall",
+                    "position": "0.5, 1.4, -4.9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 8.83110"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-3.9, 1.4, -0.5",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 8.83110"
+                },
+                {
+                    "name": "Wall",
+                    "position": "0.50000, 1.4, 3.9",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 8.83110"
+                },
+                {
+                    "name": "Wall",
+                    "position": "0.5, 1.4, -5.1",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 9.03110"
+                },
+                {
+                    "name": "Wall",
+                    "position": "0.5, 1.4, 4.1",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 9.03110"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-4.1, 1.4, -0.5",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 9.03110"
+                }
+            ],
+            "roofCovers": [
+                {
+                    "name": "Roof cover",
+                    "position": "5, 2.8, -0.5",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.21, 0.001, 9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "0.5, 2.8, -5",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-4, 2.8, -0.5",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "0.5, 2.8, 4",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.21, 0.001, 9"
+                }
+            ],
+            "doors": [],
+            "windows": [],
+            "floors": [
+                {
+                    "name": "Floor(Clone)",
+                    "position": "0.5, 0, -0.5",
+                    "rotation": "0, 0, 0",
+                    "scale": "9.2, 1, 9.2"
+                }
+            ],
+            "ceilings": [
+                {
+                    "name": "Ceiling(Clone)",
+                    "position": "0.5, 2.85, -0.5",
+                    "rotation": "0, 0, 0",
+                    "scale": "9.5, 0.1, 9.5"
+                }
+            ]
+        },
+        {
+            "id": "bad513f0-f62b-406f-90b8-cfdeac71115c",
+            "walls": [
+                {
+                    "name": "Covered Wall",
+                    "position": "5.05, 1.4, 5.0485",
+                    "rotation": "0, 315, 0",
+                    "scale": "0.00100, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-7.05042, 1.4, -3.95150",
+                    "rotation": "0, 315.2388, 0",
+                    "scale": "0.001, 2.8, 0.14083"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-1.15, 1.4, 0.8485",
+                    "rotation": "0, 45, 0",
+                    "scale": "0.00100, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-7.05, 1.4, 5.0485",
+                    "rotation": "0, 45, 0",
+                    "scale": "0.00100, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-1.20000, 1.4, 4.89850",
+                    "rotation": "0, 270.0001, 0",
+                    "scale": "0.00100, 2.8, 0.2"
+                },
+                {
+                    "name": "Wall",
+                    "position": "4.9, 1.4, 0.50042",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 8.83019"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-6.90000, 1.4, -1.50042",
+                    "rotation": "0, 0.00001, 0",
+                    "scale": "0.001, 2.8, 4.63185"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-4.05, 1.4, 0.80000",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 5.73102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "5.1, 1.4, 0.5",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 9.03102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-4.1, 1.4, 1",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 5.63102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-6.9, 1.4, 2.95",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 3.93102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-4.10000, 1.4, 4.9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 5.63102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-1.3, 1.4, 2.95",
+                    "rotation": "0, 0.00001, 0",
+                    "scale": "0.001, 2.8, 3.93102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-7.1, 1.4, -1.5",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 4.83102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-7.1, 1.4, 2.95",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 4.13102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-1.1, 1.4, 2.9",
+                    "rotation": "0, 0.00001, 0",
+                    "scale": "0.001, 2.8, 4.03102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "1.9, 1.4, 4.9",
+                    "rotation": "0, 89.99999, 0",
+                    "scale": "0.001, 2.8, 6.03102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-4.10000, 1.4, 5.1",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 5.83102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "1.9, 1.4, 5.1",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 6.23102"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "5.05, 1.4, 5.0485",
+                    "rotation": "0, 315, 0",
+                    "scale": "0.00100, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "5.04958, 1.4, -4.05150",
+                    "rotation": "0, 225.2387, 0",
+                    "scale": "0.001, 2.8, 0.14201"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-1.15, 1.4, 0.8485",
+                    "rotation": "0, 45, 0",
+                    "scale": "0.00100, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-7.05042, 1.4, -3.95150",
+                    "rotation": "0, 135.2388, 0",
+                    "scale": "0.001, 2.8, 0.14083"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-7.05, 1.4, 5.0485",
+                    "rotation": "0, 45, 0",
+                    "scale": "0.00100, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-1.20000, 1.4, 4.89850",
+                    "rotation": "0, 270.0001, 0",
+                    "scale": "0.00100, 2.8, 0.2"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-3.30025, 1.4, -4.03233",
+                    "rotation": "0, 90.47742, 0",
+                    "scale": "0.001, 2.8, 0.20001"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-3.35, 1.4, -9.05150",
+                    "rotation": "0, 314.9987, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "1.94999, 1.4, -9.05255",
+                    "rotation": "0, 45.59962, 0",
+                    "scale": "0.00100, 2.8, 0.13993"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "2.00311, 1.4, -4.07653",
+                    "rotation": "0, 270.4774, 0",
+                    "scale": "0.001, 2.8, 0.20002"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-5.14930, 1.4, -3.81542",
+                    "rotation": "0, 270.4774, 0",
+                    "scale": "0.001, 2.8, 3.73096"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-0.64669, 1.4, -3.85294",
+                    "rotation": "0, 270.4775, 0",
+                    "scale": "0.001, 2.8, 5.33674"
+                },
+                {
+                    "name": "Wall",
+                    "position": "3.50344, 1.4, -3.88753",
+                    "rotation": "0, 270.4774, 0",
+                    "scale": "0.001, 2.8, 3.02599"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-5.20054, 1.4, -4.01500",
+                    "rotation": "0, 270.4774, 0",
+                    "scale": "0.001, 2.8, 3.63180"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-3.40013, 1.4, -6.51500",
+                    "rotation": "0, 179.9971, 0",
+                    "scale": "0.001, 2.8, 5.00109"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-0.7, 1.4, -9.1",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 5.23109"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-0.69897, 1.4, -8.9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 5.03317"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-3.20013, 1.4, -6.46583",
+                    "rotation": "0, 179.9971, 0",
+                    "scale": "0.001, 2.8, 4.89942"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-0.64857, 1.4, -4.05293",
+                    "rotation": "0, 270.4775, 0",
+                    "scale": "0.001, 2.8, 5.13463"
+                },
+                {
+                    "name": "Wall",
+                    "position": "1.85259, 1.4, -6.48710",
+                    "rotation": "0, 1.19944, 0",
+                    "scale": "0.001, 2.8, 4.85795"
+                },
+                {
+                    "name": "Wall",
+                    "position": "2.05155, 1.4, -6.53898",
+                    "rotation": "0, 1.19943, 0",
+                    "scale": "0.001, 2.8, 4.9584"
+                },
+                {
+                    "name": "Wall",
+                    "position": "3.55114, 1.4, -4.08793",
+                    "rotation": "0, 270.4775, 0",
+                    "scale": "0.001, 2.8, 2.92724"
+                }
+            ],
+            "roofCovers": [
+                {
+                    "name": "Roof cover",
+                    "position": "5, 2.8, 0.5",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-7, 2.8, -1.5",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.21, 0.001, 4.8"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-4.1, 2.8, 0.90000",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 5.8"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-7, 2.8, 2.95",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.21, 0.001, 4.1"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-4.10000, 2.8, 5",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 5.8"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-1.2, 2.8, 2.95",
+                    "rotation": "0, 0.00001, 0",
+                    "scale": "0.21, 0.001, 4.1"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "1.9, 2.8, 5",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 6.2"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "5, 2.8, 0.5",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "1.9, 2.8, 5",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 6.2"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-1.2, 2.8, 2.95",
+                    "rotation": "0, 0.00001, 0",
+                    "scale": "0.21, 0.001, 4.1"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-4.1, 2.8, 0.90000",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 5.8"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-7, 2.8, -1.5",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.21, 0.001, 4.8"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-7, 2.8, 2.95",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.21, 0.001, 4.1"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-4.10000, 2.8, 5",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 5.8"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-5.15013, 2.8, -3.91542",
+                    "rotation": "0, 270.4774, 0",
+                    "scale": "0.21, 0.001, 3.69987"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-3.30013, 2.8, -6.46542",
+                    "rotation": "0, 179.9971, 0",
+                    "scale": "0.21, 0.001, 5.06917"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-0.7, 2.8, -9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 5.20000"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "1.95260, 2.8, -6.48752",
+                    "rotation": "0, 1.19943, 0",
+                    "scale": "0.21, 0.001, 5.02606"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "3.50260, 2.8, -3.98752",
+                    "rotation": "0, 270.4774, 0",
+                    "scale": "0.21, 0.001, 2.99490"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-0.64752, 2.8, -3.95294",
+                    "rotation": "0, 270.4775, 0",
+                    "scale": "0.21, 0.001, 5.30565"
+                }
+            ],
+            "doors": [
+                {
+                    "name": "Door(Clone)",
+                    "position": "5, 1, 2.34931",
+                    "rotation": "0, 180, 0",
+                    "scale": "1000, 0.35714, 0.11073"
+                },
+                {
+                    "name": "Door(Clone)",
+                    "position": "-1.41913, 1, -8.99878",
+                    "rotation": "0, 90.00001, 0",
+                    "scale": "999.9998, 0.35714, 0.19868"
+                },
+                {
+                    "name": "Door(Clone)",
+                    "position": "0.64007, 1, -3.96489",
+                    "rotation": "0, 270.4775, 0",
+                    "scale": "1000, 0.35714, 0.18738"
+                },
+                {
+                    "name": "Door(Clone)",
+                    "position": "-1.2, 1, 2.24104",
+                    "rotation": "0, 0.00001, 0",
+                    "scale": "1000, 0.35714, 0.24808"
+                },
+                {
+                    "name": "Door(Clone)",
+                    "position": "-7.00123, 1, -1.76469",
+                    "rotation": "0, 0.00001, 0",
+                    "scale": "1000, 0.35714, 0.20700"
+                }
+            ],
+            "windows": [
+                {
+                    "name": "Window(Clone)",
+                    "position": "-5.15723, 1, -3.91536",
+                    "rotation": "0, 270.4774, 0",
+                    "scale": "1000, 0.35714, 0.27535"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "-4.28989, 1, 5",
+                    "rotation": "0, 90.00001, 0",
+                    "scale": "999.9998, 0.35714, 0.17759"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "-7.00123, 1, 2.56583",
+                    "rotation": "0, 0, 0",
+                    "scale": "1000, 0.35714, 0.25439"
+                }
+            ],
+            "floors": [
+                {
+                    "name": "Floor(Clone)",
+                    "position": "-1, 0, -2",
+                    "rotation": "0, 0, 0",
+                    "scale": "12.2, 1, 14.2"
+                }
+            ],
+            "ceilings": [
+                {
+                    "name": "Ceiling(Clone)",
+                    "position": "-1, 2.85, -2",
+                    "rotation": "0, 0, 0",
+                    "scale": "12.5, 0.1, 14.5"
+                }
+            ]
+        },
+        {
+            "id": "208c80db-f3d0-48fe-bb95-ced0acecc0c5",
+            "walls": [
+                {
+                    "name": "Covered Wall",
+                    "position": "-6.05, 1.4, -5.0515",
+                    "rotation": "0, 315, 0",
+                    "scale": "0.00100, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "0.05, 1.4, -5.0515",
+                    "rotation": "0, 45.00003, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-6.05, 1.4, 4.9485",
+                    "rotation": "0, 225, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "6.05, 1.4, 4.9485",
+                    "rotation": "0, 135, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "6.05, 1.4, -2.0515",
+                    "rotation": "0, 225, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "0.00000, 1.4, -2.1015",
+                    "rotation": "0, 270.0001, 0",
+                    "scale": "0.00100, 2.8, 0.2"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-3, 1.4, -5.1",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 6.03104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-3, 1.4, -4.9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 5.83104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-0.10000, 1.4, -3.5",
+                    "rotation": "0, 0.00000, 0",
+                    "scale": "0.001, 2.8, 2.83104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-3, 1.4, -2.10000",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 5.83104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-5.9, 1.4, -3.5",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 2.83104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "0, 1.4, 4.8",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 11.83104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "5.9, 1.4, 1.45",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 6.73104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "2.95, 1.4, -1.9",
+                    "rotation": "0, 89.99999, 0",
+                    "scale": "0.001, 2.8, 5.93104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-2.95, 1.4, -1.9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 5.93104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-5.9, 1.4, 1.45",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 6.73104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "0, 1.4, 5",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 12.03104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "6.1, 1.4, 1.45",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 6.93104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "3.05, 1.4, -2.1",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 5.93104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "0.1, 1.4, -3.55",
+                    "rotation": "0, 0.00000, 0",
+                    "scale": "0.001, 2.8, 2.93104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-6.1, 1.4, 1.45",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 6.93104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-6.1, 1.4, -3.5",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 3.03104"
+                }
+            ],
+            "roofCovers": [
+                {
+                    "name": "Roof cover",
+                    "position": "-3, 2.8, -5",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 6"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "0, 2.8, -3.5",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.21, 0.001, 3"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "3, 2.8, -2",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 6"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "6, 2.8, 1.45",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 6.9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "0, 2.8, 4.9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 12"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-6, 2.8, 1.45",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 6.9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-3, 2.8, -2",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 6"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-6, 2.8, -3.5",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 3"
+                }
+            ],
+            "doors": [
+                {
+                    "name": "Door(Clone)",
+                    "position": "0.00000, 1, -3.74375",
+                    "rotation": "0, 0.00000, 0",
+                    "scale": "1000, 0.35714, 0.35323"
+                },
+                {
+                    "name": "Door(Clone)",
+                    "position": "-4.48543, 1, -2.00123",
+                    "rotation": "0, 90.00001, 0",
+                    "scale": "999.9998, 0.35714, 0.17150"
+                },
+                {
+                    "name": "Door(Clone)",
+                    "position": "4.3339, 1, 4.89878",
+                    "rotation": "0, 90.00001, 0",
+                    "scale": "999.9998, 0.35714, 0.08312"
+                }
+            ],
+            "windows": [
+                {
+                    "name": "Window(Clone)",
+                    "position": "-2.24272, 1, -5.00123",
+                    "rotation": "0, 90.00001, 0",
+                    "scale": "999.9998, 0.35714, 0.17150"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "-3.60653, 1, -5.00123",
+                    "rotation": "0, 90.00001, 0",
+                    "scale": "999.9998, 0.35714, 0.17150"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "-6.00123, 1, 1.61744",
+                    "rotation": "0, 180, 0",
+                    "scale": "1000, 0.35714, 0.14428"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "-6.00123, 1, -0.01817",
+                    "rotation": "0, 180, 0",
+                    "scale": "1000, 0.35714, 0.14857"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "-1.93965, 1, 4.90123",
+                    "rotation": "0, 90.00001, 0",
+                    "scale": "999.9998, 0.35714, 0.08452"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "-0.54553, 1, 4.9",
+                    "rotation": "0, 90.00001, 0",
+                    "scale": "999.9998, 0.35714, 0.08452"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "0.87890, 1, 4.90123",
+                    "rotation": "0, 90.00001, 0",
+                    "scale": "999.9998, 0.35714, 0.08452"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "5.99878, 1, 3.22277",
+                    "rotation": "0, 180, 0",
+                    "scale": "1000, 0.35714, 0.14428"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "6, 1, 1.82947",
+                    "rotation": "0, 180, 0",
+                    "scale": "1000, 0.35714, 0.14857"
+                }
+            ],
+            "floors": [
+                {
+                    "name": "Floor(Clone)",
+                    "position": "0, 0, -0.05000",
+                    "rotation": "0, 0, 0",
+                    "scale": "12.2, 1, 10.1"
+                }
+            ],
+            "ceilings": [
+                {
+                    "name": "Ceiling(Clone)",
+                    "position": "0, 2.85, -0.05000",
+                    "rotation": "0, 0, 0",
+                    "scale": "12.5, 0.1, 10.4"
+                }
+            ]
+        },
+        {
+            "id": "c7459d63-57ee-4eae-a6e4-431b509b3a03",
+            "walls": [
+                {
+                    "name": "Covered Wall",
+                    "position": "-4.85, 1.4, 0.9485",
+                    "rotation": "0, 44.99997, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-9.05, 1.4, 4.9485",
+                    "rotation": "0, 45.00013, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-4.9, 1.4, 4.7985",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 0.20000"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-1.05, 1.4, 0.9485",
+                    "rotation": "0, 315, 0",
+                    "scale": "0.00100, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "4.05, 1.4, 4.9485",
+                    "rotation": "0, 315, 0",
+                    "scale": "0.00100, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-1, 1.4, 4.7985",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 0.20000"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-9.05, 1.4, -6.0515",
+                    "rotation": "0, 134.9999, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "1.95, 1.4, -2.0515",
+                    "rotation": "0, 315, 0",
+                    "scale": "0.00100, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "8.05, 1.4, -6.0515",
+                    "rotation": "0, 45.00013, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-3.9, 1.4, -2.2015",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 0.20000"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "8.05, 1.4, 1.0485",
+                    "rotation": "0, 134.9999, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "12, 1.4, -2.1015",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 0.20000"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-6.9, 1.4, 0.9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 4.03102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-8.9, 1.4, -0.55",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 2.93102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-6.4, 1.4, -2",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 5.03102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-1, 1.4, -2",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 5.83102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-6.95, 1.4, 1.1",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 3.93102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-8.9, 1.4, 2.95",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 3.73102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-6.95, 1.4, 4.8",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 3.93102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-5, 1.4, 2.95",
+                    "rotation": "0, 0.00001, 0",
+                    "scale": "0.001, 2.8, 3.73102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-9.1, 1.4, 2.95",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 3.93102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-9.1, 1.4, -0.55",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 3.13102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-9.1, 1.4, -4.05",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 3.93102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-4.8, 1.4, 2.9",
+                    "rotation": "0, 0.00001, 0",
+                    "scale": "0.001, 2.8, 3.83102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-2.95, 1.4, 4.8",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 3.73102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-1.1, 1.4, 2.9",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 3.83102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-6.95, 1.4, 5",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 4.13102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-2.95, 1.4, 5",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 3.93102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "1.5, 1.4, 5",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 5.03102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "1.5, 1.4, 1.1",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 4.83102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "3.9, 1.4, 2.95",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 3.73102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "1.5, 1.4, 4.8",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 4.83102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-0.9, 1.4, 2.95",
+                    "rotation": "0, 0.00000, 0",
+                    "scale": "0.001, 2.8, 3.73102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "1.5, 1.4, 0.9",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 5.03102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "5.95, 1.4, 0.9",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 3.93102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "7.9, 1.4, -0.6",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 3.03102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "7.9, 1.4, -4",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 3.83102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "4.95000, 1.4, -5.9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 5.93102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "2.00000, 1.4, -4",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 3.83102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "4.1, 1.4, 3",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 3.83102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "6.05, 1.4, 1.1",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 3.93102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-8.9, 1.4, -4.05",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 3.73102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-6.45, 1.4, -2.2",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 4.93102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-4, 1.4, -4.05",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 3.73102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-6.45, 1.4, -5.9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 4.93102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "1.80000, 1.4, -4.05",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 3.73102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-1, 1.4, -2.2",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 5.63102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-3.8, 1.4, -4.05",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 3.73102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-1.00000, 1.4, -5.9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 5.63102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "4.95000, 1.4, -6.1",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 6.13102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-1.00000, 1.4, -6.1",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 5.83102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-6.45, 1.4, -6.1",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 5.13102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "10.05, 1.4, -2.2",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 3.93102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "8.1, 1.4, -4.1",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 3.83102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "10.05, 1.4, -2",
+                    "rotation": "0, 90.00001, 0",
+                    "scale": "0.001, 2.8, 3.93102"
+                },
+                {
+                    "name": "Wall",
+                    "position": "8.1, 1.4, -0.5",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 3.03102"
+                }
+            ],
+            "roofCovers": [
+                {
+                    "name": "Roof cover",
+                    "position": "-6.95, 2.8, 1",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 4.1"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-9, 2.8, 2.95",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 3.9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-6.95, 2.8, 4.9",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.21, 0.001, 4.1"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-4.9, 2.8, 2.95",
+                    "rotation": "0, 0.00001, 0",
+                    "scale": "0.21, 0.001, 3.9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-2.95, 2.8, 4.9",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.21, 0.001, 3.9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-1, 2.8, 2.95",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.21, 0.001, 3.9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "1.5, 2.8, 1",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.21, 0.001, 5"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "4, 2.8, 2.95",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.21, 0.001, 3.9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "1.5, 2.8, 4.9",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.21, 0.001, 5"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-9, 2.8, -0.55",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 3.1"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-9, 2.8, -4.05",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 3.9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-6.45, 2.8, -2.1",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 5.10000"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-3.9, 2.8, -4.05",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 3.9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-1, 2.8, -2.1",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 5.8"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "1.90000, 2.8, -4.05",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 3.9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "4.95000, 2.8, -6",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 6.10000"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-1.00000, 2.8, -6",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 5.80000"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-6.45, 2.8, -6",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 5.10000"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "6, 2.8, 1",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.21, 0.001, 4"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "8, 2.8, -0.55",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 3.1"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "10, 2.8, -2.1",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 4"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "8, 2.8, -4.05",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 3.9"
+                }
+            ],
+            "doors": [
+                {
+                    "name": "Door(Clone)",
+                    "position": "-4.9, 1, 2.86793",
+                    "rotation": "0, 0.00001, 0",
+                    "scale": "1000, 0.35714, 0.26802"
+                },
+                {
+                    "name": "Door(Clone)",
+                    "position": "-2.54618, 1, 4.9",
+                    "rotation": "0, 270, 0",
+                    "scale": "999.9998, 0.35714, 0.26802"
+                },
+                {
+                    "name": "Door(Clone)",
+                    "position": "-8.99878, 1, -0.57084",
+                    "rotation": "0, 180, 0",
+                    "scale": "1000, 0.35714, 0.31938"
+                },
+                {
+                    "name": "Door(Clone)",
+                    "position": "-5.50525, 1, -2.10123",
+                    "rotation": "0, 90.00001, 0",
+                    "scale": "999.9998, 0.35714, 0.19877"
+                },
+                {
+                    "name": "Door(Clone)",
+                    "position": "0.27526, 1, -2.1",
+                    "rotation": "0, 90.00001, 0",
+                    "scale": "999.9998, 0.35714, 0.17759"
+                },
+                {
+                    "name": "Door(Clone)",
+                    "position": "-1.00123, 1, 2.00824",
+                    "rotation": "0, 0.00000, 0",
+                    "scale": "1000, 0.35714, 0.26103"
+                },
+                {
+                    "name": "Door(Clone)",
+                    "position": "8, 1, -0.57084",
+                    "rotation": "0, 180, 0",
+                    "scale": "1000, 0.35714, 0.32992"
+                }
+            ],
+            "windows": [
+                {
+                    "name": "Window(Clone)",
+                    "position": "-6.91597, 1, -5.99878",
+                    "rotation": "0, 90.00001, 0",
+                    "scale": "999.9998, 0.35714, 0.19489"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "-0.48171, 1, -6",
+                    "rotation": "0, 90.00001, 0",
+                    "scale": "999.9998, 0.35714, 0.17759"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "5.2988, 1, -6",
+                    "rotation": "0, 90.00001, 0",
+                    "scale": "999.9998, 0.35714, 0.16861"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "5.88373, 1, 1",
+                    "rotation": "0, 270, 0",
+                    "scale": "999.9998, 0.35714, 0.25439"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "1.58276, 1, 4.9",
+                    "rotation": "0, 270, 0",
+                    "scale": "999.9998, 0.35714, 0.20700"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "-9, 1, 2.52405",
+                    "rotation": "0, 180, 0",
+                    "scale": "1000, 0.35714, 0.26802"
+                }
+            ],
+            "floors": [
+                {
+                    "name": "Floor(Clone)",
+                    "position": "1.5, 0, -0.55",
+                    "rotation": "0, 0, 0",
+                    "scale": "21.2, 1, 11.1"
+                }
+            ],
+            "ceilings": [
+                {
+                    "name": "Ceiling(Clone)",
+                    "position": "1.5, 2.85, -0.55",
+                    "rotation": "0, 0, 0",
+                    "scale": "21.5, 0.1, 11.4"
+                }
+            ]
+        },
+        {
+            "id": "6d41ac02-0f21-460a-abc1-7da786da64cd",
+            "walls": [
+                {
+                    "name": "Covered Wall",
+                    "position": "-5.05, 1.4, 6.0485",
+                    "rotation": "0, 225, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "7.15, 1.4, 6.0485",
+                    "rotation": "0, 135, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "7.15, 1.4, -5.0515",
+                    "rotation": "0, 225, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "1.35, 1.4, -0.85150",
+                    "rotation": "0, 135, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-5.05, 1.4, -5.0515",
+                    "rotation": "0, 135, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Wall",
+                    "position": "1.05, 1.4, 5.9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 11.93103"
+                },
+                {
+                    "name": "Wall",
+                    "position": "7, 1.4, 0.5",
+                    "rotation": "0, 0.00000, 0",
+                    "scale": "0.001, 2.8, 10.83103"
+                },
+                {
+                    "name": "Wall",
+                    "position": "4.2, 1.4, -4.9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 5.63103"
+                },
+                {
+                    "name": "Wall",
+                    "position": "1.4, 1.4, -2.9",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 4.03103"
+                },
+                {
+                    "name": "Wall",
+                    "position": "1.05, 1.4, 6.1",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 12.13103"
+                },
+                {
+                    "name": "Wall",
+                    "position": "7.2, 1.4, 0.5",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 11.03103"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-5.1, 1.4, 0.00000",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 1.83103"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-5.1, 1.4, -2.95",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 4.13103"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-5.1, 1.4, 3.55",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 4.93103"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-4.90000, 1.4, 3.45",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 4.93103"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-4.90000, 1.4, 0.10000",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 1.83103"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-1.8, 1.4, -0.80000",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 6.23103"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-1.85, 1.4, -1",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 6.13103"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-4.90000, 1.4, -2.95",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 3.93103"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-1.85, 1.4, -4.9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 6.13103"
+                },
+                {
+                    "name": "Wall",
+                    "position": "1.2, 1.4, -2.95",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 3.93103"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-1.85, 1.4, -5.1",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 6.33103"
+                },
+                {
+                    "name": "Wall",
+                    "position": "4.2, 1.4, -5.1",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 5.83103"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-5.05, 1.4, 6.0485",
+                    "rotation": "0, 225, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "7.15, 1.4, 6.0485",
+                    "rotation": "0, 135, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "7.15, 1.4, -5.0515",
+                    "rotation": "0, 225, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "1.35, 1.4, -0.85150",
+                    "rotation": "0, 135, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-5.05, 1.4, -5.0515",
+                    "rotation": "0, 135, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                }
+            ],
+            "roofCovers": [
+                {
+                    "name": "Roof cover",
+                    "position": "1.05, 2.8, 6",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 12.1"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "7.1, 2.8, 0.5",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.21, 0.001, 11"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "4.2, 2.8, -5",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 5.80000"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "1.3, 2.8, -2.95",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 4.1"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-1.85, 2.8, -0.90000",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 6.30000"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-5, 2.8, 0.05000",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 1.9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-5, 2.8, 3.5",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 5"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-5, 2.8, -2.95",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 4.1"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-1.85, 2.8, -5",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 6.30000"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "1.05, 2.8, 6",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 12.1"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "7.1, 2.8, 0.5",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.21, 0.001, 11"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "4.2, 2.8, -5",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 5.80000"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "1.3, 2.8, -2.95",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 4.1"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-1.85, 2.8, -0.90000",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 6.30000"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-5, 2.8, 0.05000",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 1.9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-5, 2.8, 3.5",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 5"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-5, 2.8, -2.95",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 4.1"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-1.85, 2.8, -5",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 6.30000"
+                }
+            ],
+            "doors": [
+                {
+                    "name": "Door(Clone)",
+                    "position": "-5.00123, 1, 3.08233",
+                    "rotation": "0, 180, 0",
+                    "scale": "1000, 0.35714, 0.20280"
+                },
+                {
+                    "name": "Door(Clone)",
+                    "position": "1.30123, 1, -2.82345",
+                    "rotation": "0, 180, 0",
+                    "scale": "1000, 0.35714, 0.25439"
+                },
+                {
+                    "name": "Door(Clone)",
+                    "position": "7.09878, 1, -2.45939",
+                    "rotation": "0, 0.00000, 0",
+                    "scale": "1000, 0.35714, 0.09065"
+                }
+            ],
+            "windows": [
+                {
+                    "name": "Window(Clone)",
+                    "position": "-2.79993, 1, -5",
+                    "rotation": "0, 90.00001, 0",
+                    "scale": "999.9998, 0.35714, 0.15795"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "-1.54563, 1, -5",
+                    "rotation": "0, 90.00001, 0",
+                    "scale": "999.9998, 0.35714, 0.15795"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "-0.49363, 1, 6",
+                    "rotation": "0, 90.00001, 0",
+                    "scale": "999.9998, 0.35714, 0.08382"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "0.84160, 1, 6",
+                    "rotation": "0, 90.00001, 0",
+                    "scale": "999.9998, 0.35714, 0.08382"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "2.21729, 1, 6",
+                    "rotation": "0, 90.00001, 0",
+                    "scale": "999.9998, 0.35714, 0.08382"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "7.1, 1, 0.12506",
+                    "rotation": "0, 0.00000, 0",
+                    "scale": "1000, 0.35714, 0.09065"
+                }
+            ],
+            "floors": [
+                {
+                    "name": "Floor(Clone)",
+                    "position": "1.05, 0, 0.5",
+                    "rotation": "0, 0, 0",
+                    "scale": "12.3, 1, 11.2"
+                }
+            ],
+            "ceilings": [
+                {
+                    "name": "Ceiling(Clone)",
+                    "position": "1.05, 2.85, 0.5",
+                    "rotation": "0, 0, 0",
+                    "scale": "12.6, 0.1, 11.5"
+                }
+            ]
+        },
+        {
+            "id": "11c38a85-05e2-45eb-88bf-89968dfb6299",
+            "walls": [
+                {
+                    "name": "Covered Wall",
+                    "position": "14.5, 1.4, -7.2015",
+                    "rotation": "0, 225.0001, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "14.5, 1.4, 7.1985",
+                    "rotation": "0, 314.9999, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-14.5, 1.4, -7.2015",
+                    "rotation": "0, 314.9999, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-5.1, 1.4, 1.4985",
+                    "rotation": "0, 45, 0",
+                    "scale": "0.00100, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-14.5, 1.4, 7.1985",
+                    "rotation": "0, 45.00013, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-5.15, 1.4, 7.04850",
+                    "rotation": "0, 269.9999, 0",
+                    "scale": "0.00100, 2.8, 0.2"
+                },
+                {
+                    "name": "Wall",
+                    "position": "14.55, 1.4, 0",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 14.33104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "14.35, 1.4, 0",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 14.13104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "0.00000, 1.4, -7.05",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 28.73104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-14.35, 1.4, -2.8",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 8.53104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-9.75, 1.4, 1.45",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 9.23104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "0.00000, 1.4, -7.25",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 28.93104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-9.8, 1.4, 1.65",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 9.13104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-14.35, 1.4, 4.35",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 5.43104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-9.80000, 1.4, 7.05",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 9.13104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-5.25, 1.4, 4.35",
+                    "rotation": "0, 0.00001, 0",
+                    "scale": "0.001, 2.8, 5.43104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-14.55, 1.4, 4.35",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 5.63104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-14.55, 1.4, -2.8",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 8.73104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-5.05, 1.4, 4.3",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 5.53104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "4.65, 1.4, 7.05000",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 19.43104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "4.65, 1.4, 7.25",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 19.63104"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-9.8, 1.4, 7.25",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 9.33104"
+                }
+            ],
+            "roofCovers": [
+                {
+                    "name": "Roof cover",
+                    "position": "14.45, 2.8, 0",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.21, 0.001, 14.3"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "0.00000, 2.8, -7.15",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 28.9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-14.45, 2.8, -2.8",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 8.7"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-9.8, 2.8, 1.55",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 9.3"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-14.45, 2.8, 4.35",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 5.6"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-9.8, 2.8, 7.15",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.21, 0.001, 9.3"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-5.15, 2.8, 4.35",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.21, 0.001, 5.6"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "4.65, 2.8, 7.15",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.21, 0.001, 19.6"
+                }
+            ],
+            "doors": [
+                {
+                    "name": "Door(Clone)",
+                    "position": "-14.44877, 1, -3.26171",
+                    "rotation": "0, 180, 0",
+                    "scale": "1000, 0.35714, 0.11722"
+                }
+            ],
+            "windows": [
+                {
+                    "name": "Window(Clone)",
+                    "position": "-14.45123, 1, -5.36562",
+                    "rotation": "0, 180, 0",
+                    "scale": "1000, 0.35714, 0.11453"
+                }
+            ],
+            "floors": [
+                {
+                    "name": "Floor(Clone)",
+                    "position": "0, 0, 0",
+                    "rotation": "0, 0, 0",
+                    "scale": "29.1, 1, 14.5"
+                }
+            ],
+            "ceilings": [
+                {
+                    "name": "Ceiling(Clone)",
+                    "position": "0, 2.85, 0",
+                    "rotation": "0, 0, 0",
+                    "scale": "29.4, 0.1, 14.8"
+                }
+            ]
+        },
+        {
+            "id": "d81718fe-bc37-42e2-9b3e-6a5491a52d5e",
+            "walls": [
+                {
+                    "name": "Covered Wall",
+                    "position": "-11.55, 1.40000, 6.94850",
+                    "rotation": "0, 45.00013, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-2.25, 1.4, 1.54850",
+                    "rotation": "0, 225, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-2.3, 1.4, 6.79850",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 0.20000"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "1.6, 1.4, 6.79850",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 0.20000"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "1.55, 1.4, 0.7485",
+                    "rotation": "0, 135, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "12.65, 1.40000, 6.94850",
+                    "rotation": "0, 134.9999, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-6.55, 1.4, -1.8515",
+                    "rotation": "0, 44.99997, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-11.55, 1.4, -9.05150",
+                    "rotation": "0, 135, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "-6.6, 1.4, 1.49850",
+                    "rotation": "0, 269.9999, 0",
+                    "scale": "0.00100, 2.8, 0.20000"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "1.55, 1.4, -2.5515",
+                    "rotation": "0, 45.00003, 0",
+                    "scale": "0.00100, 2.8, 0.14142"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "8.40000, 1.4, -2.7015",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 0.20000"
+                },
+                {
+                    "name": "Covered Wall",
+                    "position": "12.65, 1.4, -9.05150",
+                    "rotation": "0, 225, 0",
+                    "scale": "0.001, 2.8, 0.14142"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-11.6, 1.4, 4.25",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 5.33106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-11.6, 1.4, -0.10000",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 3.43106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-11.6, 1.4, -5.4",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 7.23106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-11.4, 1.4, 4.25",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 5.13106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-6.9, 1.4, 6.8",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 9.03106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-2.4, 1.4, 4.25",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 5.13106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-4.5, 1.4, 1.70000",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 4.23106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-9, 1.4, 1.70000",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 4.83106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-2.2, 1.4, 4.20000",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 5.23106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-0.35000, 1.4, 6.8",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 3.73106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "1.5, 1.4, 3.8",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 6.03106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-6.9, 1.40000, 7",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 9.23106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-0.35000, 1.40000, 7",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 3.93106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "7.1, 1.40000, 7",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 11.03106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "1.7, 1.4, 3.85",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 5.93106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "7.1, 1.4, 6.8",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.001, 2.8, 10.83106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "12.5, 1.4, 3.85",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 5.93106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "7.1, 1.4, 0.9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 10.83106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "7.05, 1.4, 0.70000",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 10.93106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "12.5, 1.4, -0.90000",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 3.23106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "10.45, 1.4, -2.5",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 4.13106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "5, 1.4, -2.5",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 6.83106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "12.7, 1.4, 3.85000",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 6.13106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "12.7, 1.4, -0.90000",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 3.43106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "12.7, 1.4, -4.45",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 3.73106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "12.7, 1.4, -7.65000",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 2.73106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-9, 1.4, -1.9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 4.83106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-11.4, 1.4, -5.4",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 7.03106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-4.95, 1.40000, -8.9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 12.93106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "1.5, 1.4, -5.75",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 6.33106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-9.05, 1.4, -1.7",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 4.73106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-11.4, 1.4, -0.10000",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 3.23106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-9.05000, 1.4, 1.50000",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 4.73106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-6.7, 1.4, -0.10000",
+                    "rotation": "0, 0.00001, 0",
+                    "scale": "0.001, 2.8, 3.23106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-6.5, 1.4, -0.15000",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 3.33106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-4.4, 1.4, 1.50000",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 4.23106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "1.7, 1.4, -5.8",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 6.23106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "5, 1.4, -2.7",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 6.63106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "8.3, 1.4, -4.5",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 3.63106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "8.3, 1.4, -7.60000",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 2.63106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "5, 1.40000, -8.9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 6.63106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "-4.95, 1.4, -9.10000",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 13.13106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "5, 1.4, -9.10000",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 6.83106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "10.5, 1.4, -9.10000",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 4.23106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "10.5, 1.4, -2.7",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 4.03106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "12.5, 1.4, -4.45",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 3.53106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "10.5, 1.4, -6.20000",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 4.03106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "8.50000, 1.4, -4.45",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 3.53106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "12.5, 1.4, -7.65000",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.001, 2.8, 2.53106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "10.5, 1.40000, -8.9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 4.03106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "8.50000, 1.4, -7.65000",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.001, 2.8, 2.53106"
+                },
+                {
+                    "name": "Wall",
+                    "position": "10.5, 1.4, -6.40000",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.001, 2.8, 4.03106"
+                }
+            ],
+            "roofCovers": [
+                {
+                    "name": "Roof cover",
+                    "position": "-11.5, 2.8, 4.25",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 5.30000"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-6.9, 2.8, 6.90000",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.21, 0.001, 9.2"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-2.3, 2.8, 4.25",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.21, 0.001, 5.30000"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-0.35000, 2.8, 6.90000",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.21, 0.001, 3.9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "1.6, 2.8, 3.85",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 6.1"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "7.1, 2.8, 6.90000",
+                    "rotation": "0, 270, 0",
+                    "scale": "0.21, 0.001, 11"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "12.6, 2.8, 3.85000",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.21, 0.001, 6.1"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "7.1, 2.8, 0.8",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 11"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "12.6, 2.8, -0.90000",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.21, 0.001, 3.4"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "10.5, 2.80000, -2.6",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 4.2"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "5, 2.80000, -2.6",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 6.80000"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "1.6, 2.80000, -5.8",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 6.4"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-4.95, 2.8, -9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 13.1"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-11.5, 2.8, -5.40000",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 7.2"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-9.05, 2.8, -1.8",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 4.9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-11.5, 2.8, -0.10000",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 3.4"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-9.05, 2.8, 1.60000",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 4.9"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-6.6, 2.8, -0.10000",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.21, 0.001, 3.4"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "-4.45, 2.8, 1.60000",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 4.3"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "12.6, 2.8, -7.65",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.21, 0.001, 2.7"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "12.6, 2.8, -4.45",
+                    "rotation": "0, 0, 0",
+                    "scale": "0.21, 0.001, 3.7"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "10.5, 2.8, -6.3",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 4.2"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "8.40000, 2.8, -4.45",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 3.7"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "8.40000, 2.8, -7.65",
+                    "rotation": "0, 180, 0",
+                    "scale": "0.21, 0.001, 2.7"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "5, 2.8, -9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 6.80000"
+                },
+                {
+                    "name": "Roof cover",
+                    "position": "10.5, 2.8, -9",
+                    "rotation": "0, 90, 0",
+                    "scale": "0.21, 0.001, 4.2"
+                }
+            ],
+            "doors": [
+                {
+                    "name": "Door(Clone)",
+                    "position": "-6.60123, 1.00000, -0.43687",
+                    "rotation": "0, 0.00001, 0",
+                    "scale": "1000, 0.35714, 0.30020"
+                },
+                {
+                    "name": "Door(Clone)",
+                    "position": "-11.50123, 1, -6.81162",
+                    "rotation": "0, 180, 0",
+                    "scale": "1000, 0.35714, 0.14223"
+                },
+                {
+                    "name": "Door(Clone)",
+                    "position": "-2.3, 1.00000, 3.12942",
+                    "rotation": "0, 0, 0",
+                    "scale": "1000, 0.35714, 0.19489"
+                },
+                {
+                    "name": "Door(Clone)",
+                    "position": "3.82679, 1.00000, 0.79877",
+                    "rotation": "0, 90.00002, 0",
+                    "scale": "999.9998, 0.35714, 0.09233"
+                },
+                {
+                    "name": "Door(Clone)",
+                    "position": "3.06857, 1.00000, -2.59878",
+                    "rotation": "0, 90.00002, 0",
+                    "scale": "999.9998, 0.35714, 0.15081"
+                },
+                {
+                    "name": "Door(Clone)",
+                    "position": "12.59877, 1.00000, -0.88266",
+                    "rotation": "0, 0, 0",
+                    "scale": "1000, 0.35714, 0.29145"
+                },
+                {
+                    "name": "Door(Clone)",
+                    "position": "11.27521, 1.00000, -2.6",
+                    "rotation": "0, 90.00002, 0",
+                    "scale": "999.9998, 0.35714, 0.24207"
+                },
+                {
+                    "name": "Door(Clone)",
+                    "position": "12.60123, 1, -7.79235",
+                    "rotation": "0, 0, 0",
+                    "scale": "1000, 0.35714, 0.39509"
+                }
+            ],
+            "windows": [
+                {
+                    "name": "Window(Clone)",
+                    "position": "-11.50123, 1, -4.53811",
+                    "rotation": "0, 180, 0",
+                    "scale": "1000, 0.35714, 0.13829"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "-11.50123, 1.00000, 3.66436",
+                    "rotation": "0, 180, 0",
+                    "scale": "1000, 0.35714, 0.19489"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "4.09440, 1, -8.99878",
+                    "rotation": "0, 90.00002, 0",
+                    "scale": "999.9998, 0.35714, 0.14639"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "-7.10053, 1, -8.99878",
+                    "rotation": "0, 90.00002, 0",
+                    "scale": "999.9998, 0.35714, 0.07616"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "-5.67328, 1, -9",
+                    "rotation": "0, 90.00002, 0",
+                    "scale": "999.9998, 0.35714, 0.07733"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "-4.29065, 1, -9",
+                    "rotation": "0, 90.00002, 0",
+                    "scale": "999.9998, 0.35714, 0.07616"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "-0.36573, 1, 6.89878",
+                    "rotation": "0, 270, 0",
+                    "scale": "999.9998, 0.35714, 0.25438"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "4.40661, 1, 6.90123",
+                    "rotation": "0, 270, 0",
+                    "scale": "999.9998, 0.35714, 0.09233"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "12.60123, 1.00000, -4.80558",
+                    "rotation": "0, 0, 0",
+                    "scale": "1000, 0.35714, 0.26802"
+                },
+                {
+                    "name": "Window(Clone)",
+                    "position": "10.9184, 1, -9.00122",
+                    "rotation": "0, 90.00002, 0",
+                    "scale": "999.9998, 0.35714, 0.24807"
+                }
+            ],
+            "floors": [
+                {
+                    "name": "Floor",
+                    "position": "0.55000, 0, -1.05",
+                    "rotation": "0, 0, 0",
+                    "scale": "24.3, 1, 16.1"
+                }
+            ],
+            "ceilings": [
+                {
+                    "name": "Ceiling",
+                    "position": "0.55000, 2.85, -1.05",
+                    "rotation": "0, 0, 0",
+                    "scale": "24.6, 0.1, 16.4"
+                }
+            ]
+        }
+    ]
+}
